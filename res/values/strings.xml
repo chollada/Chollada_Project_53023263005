@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">CholladaProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_picture">Picture</string>
+    <string name="title_activity_vdo">VDO</string>
+    <string name="title_activity_cal">Cal</string>
+    <string name="title_activity_data_base">DataBase</string>
+
+</resources>
